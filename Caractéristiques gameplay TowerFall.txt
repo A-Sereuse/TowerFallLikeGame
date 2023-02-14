@@ -1,0 +1,32 @@
+	- Jeu de plateforme 2D en 3ème personne avec personnage armé.
+
+	- Différents niveaux (cartes) avec plateformes fixes avec gravité.
+
+	- Possibilité de ralentir chute en rasant murs ou bordures et de s'appuyer sur mur ou bordure pour pouvoir re sauter.
+
+	- Passages symétriques par rapport à l'axe horizontal (chute joueur dans trou au sol se poursuit dans trou du plafond symétrique).
+
+	- Vagues successives et de difficulté croissante d'ennemis.
+
+	- Possiblité de faire des dégâts aux ennemis en sautant sur leur tête.
+
+	- Ennemis étourdis lorsque touchés mais pas tués.
+
+	- Quantité limitée de munitions (arc avec flèches dans TowerFall) qui traversent monstres en infligeant dégâts et s'immobilisent au niveau du premier obstacle non ennemi rencontré.
+	  Possibilité de ramasser munitions envoyées, pas de régénération automatique des munitions.
+
+	- Apparition géographiquement et temporellement aléatoire de portails générateurs de monstres de types différents (apparence, points de vie, attaque, capacités...).
+
+	- Apparition géographiquement et temporellement aléatoire de coffres qui apportent bonus (ex : immunité passagère) ou quantité supplémentaire de munitions.
+
+	- Réalisation d'évènements temporellement aléatoire (ex : obscurité sur écran --> visibilité diminuée à petit périmètre autour du joueur).
+
+	- Joueur possède plusieurs vies, il en perd une par mort et réapparaît vers le milieu de la structure du niveau.
+	  Explosion dans petit périmètre autour du joueur au bout d'un certain temps suivant sa réapparition.
+
+	- Lorsque niveau complété, tableau de score récapitulant nombre de meurtres, morts et combos réalisés avec bonus lié au nombre de vies restantes.
+
+	- 2 modes de jeu ? 
+	  Mode Limited Time : gagnant est celui avec le plus de points de victoire au bout d'un temps déterminé.
+	  Mode Gladiator : gagnant est le dernier à rester en vie.
+
